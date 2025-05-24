@@ -15,9 +15,10 @@ This hands-on experience significantly enhanced my skills in embedded systems, a
 
 ## Image of the micro mouse 
 
-![micro mouse](https://github.com/user-attachments/assets/957d8c54-09c6-4083-9183-e657f3f458d9)
+![trashed-1728149702-Screenshot_2024-07-27-23-24-24-49_6012fa4d4ddec268fc5c7112cbb265e7](https://github.com/user-attachments/assets/efd21a7c-1b38-4164-b6ad-f10ffe790df2)
 
-## video of the mouse solving the maze 
+
+## Video of the mouse solving the maze 
 
 https://github.com/user-attachments/assets/bbdd586d-34a7-431c-b5b3-01d67cbe2936
 
