@@ -2,7 +2,7 @@
 
 This was my first project involving a micromouse, completed during our second year of university. Our team progressed to the semi-finals but didn’t make it past the finals. Despite that, it was a valuable learning experience that helped us grow both technically and as a team.
 
-We used the **ATmega328P** microcontroller as the brain of our micromouse.
+We used the **ATmega328P** microcontroller as the brain of our micromouse and coded using AVRC using Microchip studio.
 
 I was responsible for the complete software development of the micromouse, including:
 
