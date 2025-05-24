@@ -17,6 +17,9 @@ This hands-on experience significantly enhanced my skills in embedded systems, a
 
 ![trashed-1728149702-Screenshot_2024-07-27-23-24-24-49_6012fa4d4ddec268fc5c7112cbb265e7](https://github.com/user-attachments/assets/efd21a7c-1b38-4164-b6ad-f10ffe790df2)
 
+![1000147238](https://github.com/user-attachments/assets/f4e3a17e-8722-43db-846e-68a2ef50cefc)
+
+
 
 ## Video of the mouse solving the maze 
 
